@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+    /* padding va border width heightni ichidan oladi */
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.box{
+    width: 200px;
+    height: 200px;
+    border: 5px solid red;
+    padding: 10px;
+    background: dodgerblue;
+}
